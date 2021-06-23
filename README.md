@@ -10,5 +10,5 @@ Goal: independent coupon managing system for 3 categories of users (
   
 )
 
-Tech: Lots of SQl querries wrapped by custom builder, custom exceptions, 
+Tech: Lots of SQl querries to MariaDB wrapped by custom builder, custom exceptions, 
 Connection Pool, DBDAOs, all DB settings, exceptions, facades, job runner and console interface for all types of users
