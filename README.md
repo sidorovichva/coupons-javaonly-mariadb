@@ -1,4 +1,4 @@
-1st stage of the course project: no Spring, only Java
+First stage of the course project: no Spring, only Java
 
 Goal: independent coupon managing system for 3 categories of users (
 
